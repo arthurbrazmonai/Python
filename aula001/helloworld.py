@@ -7,10 +7,13 @@ import os
 # LIMPAR CONSOLE 
 os.system('cls')
 
+# variaveis
+
+
 # codigos executaveis
 
 print ('-' * 79)
-print ('Hello World !!! ' * 5)
+print ('Hello World !!! ' * 5 )
 print ('-' * 79)
 print ()
 

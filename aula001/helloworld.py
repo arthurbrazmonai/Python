@@ -12,8 +12,7 @@ os.system('cls')
 
 # codigos executaveis
 
-print ('-' * 79)
-print ('Hello World !!! ' * 5 )
-print ('-' * 79)
+print ('=' * 70 )
+print ('Hello World')
+print ('=' * 70 )
 print ()
-

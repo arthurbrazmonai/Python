@@ -9,9 +9,9 @@ os.system ('cls')
 
 # Variaveis
 
-print ('-' * 70 )
-print ('Estudar variaveis')
-print ('-' * 70 )
+print ('=' * 70 )
+print ('VARIAVEIS')
+print ('=' * 70 )
 print ()
 
 nome = 'Jonh Doe'
@@ -28,7 +28,9 @@ print ('\033[0m \033[31mTipos declarados:\033[0m')
 print ('\033[0m \033[31mTipos declarados:\033[0m e do tipo ', type (nome))
 print ('\033[0m \033[31mTipos declarados:\033[0m e do tipo ', type (nascimento))
 print ('\033[0m \033[31mTipos declarados:\033[0m e do tipo ', type (altura))
-print ('\033[0m \033[31mTipos declarados:\033[0m e do tipo ', type (nome))
-print ('\033[0m \033[31mTipos declarados:\033[0m e do tipo ', type (nome))
+print ('\033[0m \033[31mTipos declarados:\033[0m e do tipo ', type (peso))
+print ('\033[0m \033[31mTipos declarados:\033[0m e do tipo ', type (doador))
+print ('\033[0m \033[31mTipos declarados:\033[0m e do tipo ', type (PI))
+print ()
 
 

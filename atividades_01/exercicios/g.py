@@ -14,10 +14,11 @@ valorm = float (input ('Inserir o valor em M: '))
 
 # Pocessamento
 
-resultadocm = valorm/100
-resultadomm = valorm/1000
+resultadocm = valorm * 100
+resultadomm = valorm * 1000
 
 # Saida 
 
+mensagem = print (F'Resultado : {valorm} M')
 mensagem = print (F'Resultado : {resultadocm} CM')
 mensagem = print (F'Resultado : {resultadomm} MM')

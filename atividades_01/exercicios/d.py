@@ -1,5 +1,7 @@
+# Curso de Desenvolvimento de Sistema
 # Arthur Braz Monai
 # 18/04/2024
+# Calculo de Perimeto
 
 # Biblioteca
 
@@ -19,5 +21,9 @@ numero2 = float (input ('Insira o numero divisor: '))
 resultado = numero1 / numero2
 
 # Saida 
+print ('=' * 70 )
+print ('DIVISAO ')
+print ('=' * 70 )
 
-print (F'Resultado: {resultado:,.2f}')
+print (F'Resultado: {resultado:,.3f}')
+print ('-' * 70 )

@@ -43,7 +43,3 @@ print (F'Bairro..............: {bairro}')
 print (F'Rua..............: {rua}')
 print (F'Numero..............: {numero}')
 print ('_' * 70 )
-
-
-
-

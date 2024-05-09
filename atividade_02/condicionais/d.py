@@ -32,7 +32,7 @@ else:
     print ('Erro!!!')
     
 
-if salario1 < 1000 and salario1 > 0:
+if salario2 < 1000 and salario2 > 0:
     salario2r = (salario2 // 10) + salario2
     print (f'Salario com o aumento sera de: {salario2r}')
 else:  

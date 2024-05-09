@@ -21,7 +21,7 @@ resultado = 0
 
 # Entrada 
 
-rodar = input ('Insira quantidade de KM: ')
+rodar = float (input ('Insira quantidade de KM: '))
 
 # Condicionais
 

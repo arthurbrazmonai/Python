@@ -4,4 +4,7 @@ os.system('cls')
 
 texto = 'joao da Silva'
 
-print(texto.replace('Silva', 'Oliveira'))
+if texto.isdigit():
+    print(texto.replace('Silva', 'Oliveira'))
+else:
+    print('Invalido!!!')

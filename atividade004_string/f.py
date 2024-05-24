@@ -4,4 +4,7 @@ os.system('cls')
 
 nome_completo = 'anderson,silva'
 
-print(nome_completo.split(','))
+if nome_completo.isdigit():
+    print(nome_completo.split(','))
+else:
+    print('Invalido!!!')

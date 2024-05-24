@@ -4,6 +4,9 @@ os.system('cls')
 
 frase = input('Insira uma frase: ')
 
-print(frase.lower())
-print(frase.upper())
-print(len(frase))
+if frase.isdigit():
+    print(frase.lower())
+    print(frase.upper())
+    print(len(frase))
+else:
+    print('Invalido!!!')
